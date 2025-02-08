@@ -1,1 +1,4 @@
 https://github.com/RyanFitzgerald/devfolio
+[submodule "devfolio"]
+    path = devfolio
+    url = https://github.com/RyanFitzgerald/devfolio

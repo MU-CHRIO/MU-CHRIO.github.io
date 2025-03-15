@@ -1,8 +1,5 @@
 ---
 layout: default
-title: Blog and portfolio site of Muhammad Umer
+title: Muhammad Umer's Blog
 ---
 
-# Welcome to My Site
-
-This is the homepage 
